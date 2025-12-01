@@ -6,7 +6,7 @@ https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmp
 <img width="1394" height="1175" alt="image" src="https://github.com/user-attachments/assets/7723d93a-df6c-450a-b779-4d8eeb80e230" />
 
 #### 2 - Abilitare esecuzione script di Tampermonkey:
-<img width="837" height="1132" alt="image" src="https://github.com/user-attachments/assets/16d2e30e-d922-4927-aa67-afd728a8f4bf" />
+<img width="703" height="738" alt="image" src="https://github.com/user-attachments/assets/5e98c3b4-a7d8-4296-88ff-0c4e857d63e3" />
 
 #### 3 - Aggiungere Script:
 <img width="358" height="387" alt="image" src="https://github.com/user-attachments/assets/487e88a5-4d9a-4aab-a16a-5b26190f0078" />

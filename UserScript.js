@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SoPlanning
 // @namespace    http://tampermonkey.net/
-// @version      2025-11-28
+// @version      2.0
 // @description  try to take over the world!
 // @author       You
 // @match        https://planning.photec.it/conseplan/planning.php

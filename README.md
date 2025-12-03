@@ -12,7 +12,7 @@ https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmp
 <img width="358" height="387" alt="image" src="https://github.com/user-attachments/assets/487e88a5-4d9a-4aab-a16a-5b26190f0078" />
 
 #### 4 - Incollare il contenuto di UserScript,js e salvare CTRL + S
-<img width="743" height="900" alt="image" src="https://github.com/user-attachments/assets/db83128e-fe48-40fc-8a52-abe93a20233f" />
+<img width="1231" height="719" alt="image" src="https://github.com/user-attachments/assets/41a48110-2fe2-4c0f-bc60-30e81c2c61c9" />
 
 
 ### Et voilà!

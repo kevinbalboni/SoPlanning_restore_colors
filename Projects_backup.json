@@ -1,0 +1,1852 @@
+[
+	{
+		"proj": "3FHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "3FUP",
+		"backgroundColor": "rgb(255, 48, 32)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "3F",
+		"backgroundColor": "rgb(221, 205, 57)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "3FPV",
+		"backgroundColor": "rgb(255, 205, 56)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "3FFX",
+		"backgroundColor": "rgb(200, 150, 0)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ABIT",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ABHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ABIS",
+		"backgroundColor": "rgb(103, 58, 183)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ACA",
+		"backgroundColor": "rgb(255, 205, 56)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ACVR",
+		"backgroundColor": "rgb(120, 217, 229)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ACHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "AERO",
+		"backgroundColor": "rgb(188, 247, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AGHD",
+		"backgroundColor": "rgb(139, 195, 74)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AGSM",
+		"backgroundColor": "rgb(242, 230, 125)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AGEV",
+		"backgroundColor": "rgb(0, 150, 136)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ABGT",
+		"backgroundColor": "rgb(202, 46, 35)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ALIA",
+		"backgroundColor": "rgb(171, 225, 109)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ALCO",
+		"backgroundColor": "rgb(198, 192, 138)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ALIS",
+		"backgroundColor": "rgb(178, 164, 41)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ALST",
+		"backgroundColor": "rgb(255, 205, 56)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AMIA",
+		"backgroundColor": "rgb(216, 179, 124)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "AMHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "APE",
+		"backgroundColor": "rgb(231, 128, 120)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ASM",
+		"backgroundColor": "rgb(139, 195, 74)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "PRT",
+		"backgroundColor": "rgb(203, 203, 203)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AST",
+		"backgroundColor": "rgb(184, 184, 184)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ATDOL",
+		"backgroundColor": "rgb(232, 231, 231)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ATOS",
+		"backgroundColor": "rgb(163, 21, 69)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "GPA",
+		"backgroundColor": "rgb(255, 199, 31)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "BAM",
+		"backgroundColor": "rgb(215, 227, 96)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "BSBK",
+		"backgroundColor": "rgb(170, 46, 37)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "BELT",
+		"backgroundColor": "rgb(124, 124, 124)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "BIM",
+		"backgroundColor": "rgb(133, 97, 197)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "BIMC",
+		"backgroundColor": "rgb(206, 136, 219)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "BIMU",
+		"backgroundColor": "rgb(74, 35, 144)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "GEN",
+		"backgroundColor": "rgb(230, 177, 18)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "BIHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "BREM",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "BCUC",
+		"backgroundColor": "rgb(212, 121, 227)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "BI",
+		"backgroundColor": "rgb(177, 231, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "CAFI",
+		"backgroundColor": "rgb(242, 119, 110)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CAHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CAMU",
+		"backgroundColor": "rgb(178, 164, 41)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CARP",
+		"backgroundColor": "rgb(51, 171, 159)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CELE",
+		"backgroundColor": "rgb(205, 220, 57)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "CHRH",
+		"backgroundColor": "rgb(183, 76, 68)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CLE",
+		"backgroundColor": "rgb(125, 173, 194)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CLHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CND",
+		"backgroundColor": "rgb(208, 226, 28)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "COHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CCB",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "CCC",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "CCM",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "CCO",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "CCF",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "CCG",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "EUDR",
+		"backgroundColor": "rgb(200, 216, 46)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "CONP",
+		"backgroundColor": "rgb(238, 213, 243)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "INTH",
+		"backgroundColor": "rgb(236, 209, 169)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AMAB",
+		"backgroundColor": "rgb(33, 150, 243)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "AMAT",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AMCC",
+		"backgroundColor": "rgb(15, 36, 152)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "AMCO",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AMCT",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AMFI",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AMMM",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AMPM",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AMPP",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AMQM",
+		"backgroundColor": "rgb(255, 235, 59)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "AMSD",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ATTS",
+		"backgroundColor": "rgb(159, 148, 148)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CRM",
+		"backgroundColor": "rgb(228, 213, 76)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "GFC",
+		"backgroundColor": "rgb(231, 216, 216)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "GLO",
+		"backgroundColor": "rgb(231, 216, 216)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "MAT",
+		"backgroundColor": "rgb(240, 233, 171)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "PCO",
+		"backgroundColor": "rgb(255, 205, 56)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "CPI",
+		"backgroundColor": "rgb(243, 236, 236)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "PREC",
+		"backgroundColor": "rgb(170, 255, 174)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "RFHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "RFXR",
+		"backgroundColor": "rgb(194, 187, 119)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "COGE",
+		"backgroundColor": "rgb(243, 236, 236)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "RIHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "RIS",
+		"backgroundColor": "rgb(255, 87, 34)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SAP",
+		"backgroundColor": "rgb(255, 152, 0)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "COSM",
+		"backgroundColor": "rgb(155, 187, 191)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CSHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CSP",
+		"backgroundColor": "rgb(227, 226, 224)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "DAL",
+		"backgroundColor": "rgb(196, 135, 130)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "DEA",
+		"backgroundColor": "rgb(178, 106, 0)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "DIGI",
+		"backgroundColor": "rgb(54, 200, 185)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ELEC",
+		"backgroundColor": "rgb(0, 105, 95)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ELEP",
+		"backgroundColor": "rgb(29, 177, 163)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ESAN",
+		"backgroundColor": "rgb(159, 233, 246)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ESP",
+		"backgroundColor": "rgb(178, 106, 0)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "EURV",
+		"backgroundColor": "rgb(240, 232, 161)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "EVR",
+		"backgroundColor": "rgb(205, 220, 57)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "EVHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "EVCO",
+		"backgroundColor": "rgb(194, 171, 101)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "EVRP",
+		"backgroundColor": "rgb(101, 175, 184)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "EXUS",
+		"backgroundColor": "rgb(23, 105, 170)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "EYAN",
+		"backgroundColor": "rgb(154, 132, 194)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "FERDA",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERC9",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERBK",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERUB",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERLB",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERES",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERBE",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERAZ",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FEREV",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERBT",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERSB",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERFB",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERD9",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERIB",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERDB",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERUD",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERRS",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERBH",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERUN",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERCZ",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERIS",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERAP",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERAC",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERCA",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERIM",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERIR",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERVE",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERLC",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERME",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FEC",
+		"backgroundColor": "rgb(111, 191, 115)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "FEB",
+		"backgroundColor": "rgb(242, 123, 115)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "FERLP",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FEREF",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERVC",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERXA",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERIZ",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERH1",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERDT",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERAD",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERHD",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERFN",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERKO",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERH5",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FEREG",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERFC",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERFG",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERGL",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERNO",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERGF",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERGA",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERE1",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERKG",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERGU",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERF3",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERE8",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERAL",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERLO",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FEROU",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERC7",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERMI",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERNF",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERH8",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERHL",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERLH",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERD6",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FEREL",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FEROS",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERA4",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERNP",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FER",
+		"backgroundColor": "rgb(215, 126, 231)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FES",
+		"backgroundColor": "rgb(190, 243, 129)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERUT",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FIZE",
+		"backgroundColor": "rgb(255, 235, 59)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FIHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "FICH",
+		"backgroundColor": "rgb(188, 188, 188)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "FSHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "FOCC",
+		"backgroundColor": "rgb(255, 235, 59)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FOHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "FOCS",
+		"backgroundColor": "rgb(255, 99, 49)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ISU",
+		"backgroundColor": "rgb(255, 87, 34)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "FOR",
+		"backgroundColor": "rgb(238, 179, 93)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "FRIU",
+		"backgroundColor": "rgb(176, 148, 67)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "GAM",
+		"backgroundColor": "rgb(231, 216, 216)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "GPHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "GPAF",
+		"backgroundColor": "rgb(175, 82, 191)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "GDPR",
+		"backgroundColor": "rgb(221, 15, 0)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "GSCP",
+		"backgroundColor": "rgb(243, 237, 237)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "CPSM",
+		"backgroundColor": "rgb(227, 226, 224)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "GRAN",
+		"backgroundColor": "rgb(243, 237, 237)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ARGE",
+		"backgroundColor": "rgb(220, 220, 220)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ICHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ICAP",
+		"backgroundColor": "rgb(53, 186, 246)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ICAT",
+		"backgroundColor": "rgb(136, 203, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "IEMA",
+		"backgroundColor": "rgb(255, 97, 48)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "INFF",
+		"backgroundColor": "rgb(112, 255, 241)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "INTA",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "INTE",
+		"backgroundColor": "rgb(255, 188, 168)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "INTK",
+		"backgroundColor": "rgb(211, 14, 0)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "IAHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ITHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ISB",
+		"backgroundColor": "rgb(178, 164, 41)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ISHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ISBS",
+		"backgroundColor": "rgb(254, 215, 158)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ISBU",
+		"backgroundColor": "rgb(73, 134, 162)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "KAE",
+		"backgroundColor": "rgb(187, 206, 0)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "KAHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ZCA",
+		"backgroundColor": "rgb(210, 218, 136)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "LAM",
+		"backgroundColor": "rgb(216, 225, 129)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "LAHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "LAME",
+		"backgroundColor": "rgb(221, 138, 16)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "LARO",
+		"backgroundColor": "rgb(221, 131, 0)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "LAMU",
+		"backgroundColor": "rgb(239, 250, 136)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "LUX",
+		"backgroundColor": "rgb(23, 169, 155)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MAGN",
+		"backgroundColor": "rgb(228, 177, 236)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "MAHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MACX",
+		"backgroundColor": "rgb(246, 91, 79)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MASE",
+		"backgroundColor": "rgb(111, 191, 115)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MGUP",
+		"backgroundColor": "rgb(76, 175, 80)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MAL",
+		"backgroundColor": "rgb(250, 113, 103)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MARI",
+		"backgroundColor": "rgb(156, 39, 176)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MARZ",
+		"backgroundColor": "rgb(190, 173, 221)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "MCA",
+		"backgroundColor": "rgb(156, 204, 225)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "MEHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MING",
+		"backgroundColor": "rgb(97, 187, 178)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MGHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "LAB",
+		"backgroundColor": "rgb(237, 214, 214)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "MOD",
+		"backgroundColor": "rgb(53, 125, 118)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MOHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MODH",
+		"backgroundColor": "rgb(255, 191, 95)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MOPA",
+		"backgroundColor": "rgb(255, 152, 0)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MORO",
+		"backgroundColor": "rgb(255, 197, 24)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "MMES",
+		"backgroundColor": "rgb(236, 202, 101)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "MVHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MOTC",
+		"backgroundColor": "rgb(98, 188, 200)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MOTW",
+		"backgroundColor": "rgb(77, 171, 245)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MTA",
+		"backgroundColor": "rgb(150, 164, 6)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MTHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MTAU",
+		"backgroundColor": "rgb(244, 67, 54)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MUTC",
+		"backgroundColor": "rgb(0, 150, 136)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MUHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MUTE",
+		"backgroundColor": "rgb(62, 190, 248)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MUT",
+		"backgroundColor": "rgb(3, 92, 133)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "NO",
+		"backgroundColor": "rgb(154, 131, 124)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "OFFA",
+		"backgroundColor": "rgb(51, 171, 159)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "OFHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "PALU",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SEHP",
+		"backgroundColor": "rgb(229, 172, 155)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "PEL",
+		"backgroundColor": "rgb(248, 239, 239)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "PEHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "PHOT",
+		"backgroundColor": "rgb(144, 144, 144)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "PRCA",
+		"backgroundColor": "rgb(222, 255, 185)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "PRHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "GROW",
+		"backgroundColor": "rgb(246, 210, 102)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "SOST",
+		"backgroundColor": "rgb(226, 255, 193)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "REAE",
+		"backgroundColor": "rgb(195, 198, 164)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "REGG",
+		"backgroundColor": "rgb(145, 183, 213)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "RFXU",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "RAM",
+		"backgroundColor": "rgb(255, 235, 59)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "SALU",
+		"backgroundColor": "rgb(244, 67, 54)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "LAUK",
+		"backgroundColor": "rgb(204, 49, 0)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SALR",
+		"backgroundColor": "rgb(54, 161, 174)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SAHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SALH",
+		"backgroundColor": "rgb(164, 194, 198)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "SCP",
+		"backgroundColor": "rgb(189, 194, 138)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "SEDA",
+		"backgroundColor": "rgb(215, 227, 96)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "SEF",
+		"backgroundColor": "rgb(215, 227, 96)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "SEHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SEFA",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "SETA",
+		"backgroundColor": "rgb(255, 151, 0)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "STHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SVHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SIRM",
+		"backgroundColor": "rgb(178, 60, 23)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SIHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SMHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SMS",
+		"backgroundColor": "rgb(242, 172, 69)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SOLM",
+		"backgroundColor": "rgb(255, 205, 56)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "SRTE",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "STRD",
+		"backgroundColor": "rgb(0, 105, 95)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "STAR",
+		"backgroundColor": "rgb(33, 150, 243)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SRHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "WISU",
+		"backgroundColor": "rgb(88, 0, 243)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SYSC",
+		"backgroundColor": "rgb(55, 150, 59)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SCHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SYSL",
+		"backgroundColor": "rgb(80, 204, 192)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "SLHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "TABI",
+		"backgroundColor": "rgb(59, 175, 41)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "TAMP",
+		"backgroundColor": "rgb(0, 105, 95)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "TAHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "TAEC",
+		"backgroundColor": "rgb(237, 124, 88)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "TAEV",
+		"backgroundColor": "rgb(255, 87, 34)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "TAFI",
+		"backgroundColor": "rgb(3, 169, 244)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "TAFO",
+		"backgroundColor": "rgb(248, 192, 25)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "TAOL",
+		"backgroundColor": "rgb(213, 225, 87)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "TAUP",
+		"backgroundColor": "rgb(255, 235, 59)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "TGHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "TARG",
+		"backgroundColor": "rgb(255, 239, 98)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "TGEX",
+		"backgroundColor": "rgb(157, 136, 192)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "TED",
+		"backgroundColor": "rgb(215, 227, 96)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "TEHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "TOHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "TOC",
+		"backgroundColor": "rgb(255, 236, 65)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "TOR",
+		"backgroundColor": "rgb(230, 218, 112)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "UMAC",
+		"backgroundColor": "rgb(51, 171, 159)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "UNEV",
+		"backgroundColor": "rgb(23, 105, 170)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "UNIG",
+		"backgroundColor": "rgb(128, 216, 133)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "UNHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "UNIA",
+		"backgroundColor": "rgb(162, 207, 110)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "UNCE",
+		"backgroundColor": "rgb(197, 255, 129)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "UNIE",
+		"backgroundColor": "rgb(185, 215, 151)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "UNEU",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "UNIT",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "UNKT",
+		"backgroundColor": "rgb(255, 239, 98)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "UNPM",
+		"backgroundColor": "rgb(36, 217, 199)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "UNPR",
+		"backgroundColor": "rgb(240, 228, 122)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "UNIK",
+		"backgroundColor": "rgb(214, 230, 195)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "UNST",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "USAI",
+		"backgroundColor": "rgb(3, 169, 244)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "UNO",
+		"backgroundColor": "rgb(125, 117, 117)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "UXHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VALC",
+		"backgroundColor": "rgb(200, 150, 77)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VALS",
+		"backgroundColor": "rgb(255, 235, 59)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "VAHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VALS4",
+		"backgroundColor": "rgb(53, 186, 246)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VALE",
+		"backgroundColor": "rgb(231, 255, 0)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "VALIS",
+		"backgroundColor": "rgb(68, 163, 205)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VDP",
+		"backgroundColor": "rgb(161, 139, 200)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VEM",
+		"backgroundColor": "rgb(63, 81, 181)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VENI",
+		"backgroundColor": "rgb(197, 113, 107)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VER",
+		"backgroundColor": "rgb(172, 183, 61)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VEPC",
+		"backgroundColor": "rgb(25, 195, 105)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "VEAM",
+		"backgroundColor": "rgb(224, 229, 177)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "VEUP",
+		"backgroundColor": "rgb(175, 82, 191)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VEH1",
+		"backgroundColor": "rgb(232, 193, 135)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "VENG",
+		"backgroundColor": "rgb(204, 235, 168)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "VEPP",
+		"backgroundColor": "rgb(187, 241, 248)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "VEPR",
+		"backgroundColor": "rgb(136, 167, 147)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VERA",
+		"backgroundColor": "rgb(255, 242, 128)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "VIR",
+		"backgroundColor": "rgb(228, 91, 81)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VIS",
+		"backgroundColor": "rgb(255, 154, 123)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VIHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "VIS4",
+		"backgroundColor": "rgb(124, 203, 238)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "VIGE",
+		"backgroundColor": "rgb(226, 218, 91)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "VISI",
+		"backgroundColor": "rgb(189, 201, 203)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "VIVE",
+		"backgroundColor": "rgb(149, 227, 236)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "WIHD",
+		"backgroundColor": "rgb(72, 40, 128)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "WIMP",
+		"backgroundColor": "rgb(227, 85, 75)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "WICC",
+		"backgroundColor": "rgb(51, 171, 159)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ZFCO",
+		"backgroundColor": "rgb(239, 231, 231)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ZFFO",
+		"backgroundColor": "rgb(239, 231, 231)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ZFM",
+		"backgroundColor": "rgb(204, 242, 247)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ZKS",
+		"backgroundColor": "rgb(51, 171, 159)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ZWI",
+		"backgroundColor": "rgb(255, 172, 51)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ZOB",
+		"backgroundColor": "rgb(141, 235, 32)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ZOA",
+		"backgroundColor": "rgb(0, 131, 148)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ZOBF",
+		"backgroundColor": "rgb(230, 213, 67)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ZOC",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ZOFU",
+		"backgroundColor": "rgb(174, 232, 176)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "ZOHD",
+		"backgroundColor": "rgb(246, 104, 94)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "ZMX",
+		"backgroundColor": "rgb(97, 136, 51)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "BLO",
+		"backgroundColor": "rgb(255, 50, 35)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CCS",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FESG",
+		"backgroundColor": "rgb(255, 205, 56)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "FERVB",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "CNDSA",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	},
+	{
+		"proj": "MOTE",
+		"backgroundColor": "rgb(77, 171, 245)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "CONT",
+		"backgroundColor": "rgb(103, 58, 183)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "SYSLC",
+		"backgroundColor": "rgb(178, 135, 4)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MOT",
+		"backgroundColor": "rgb(0, 124, 140)",
+		"color": "rgb(255, 255, 255)"
+	},
+	{
+		"proj": "MOTOVRO",
+		"backgroundColor": "rgb(255, 255, 255)",
+		"color": "rgb(0, 0, 0)"
+	}
+]

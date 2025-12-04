@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SoPlanning
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      3.0
 // @description  try to take over the world!
 // @author       You
 // @match        https://planning.photec.it/conseplan/planning.php
@@ -9,6 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
+var aProjects = [];
 
 document.addEventListener("visibilitychange", () => {
     console.log("BK - Changing color - visibilitychange");
@@ -24,40 +25,42 @@ window.addEventListener("load", (event) => {
 async function change_colors() {
     console.log("BK - Changing color");
 
-    const apiUrlProjects = 'https://planning.photec.it/conseplan/projets.php';
-    let datiDaApi = null;
-    let aProjects = [];
+    if (aProjects.length === 0) {
+        const apiUrlProjects = 'https://planning.photec.it/conseplan/projets.php';
+        let datiDaApi = null;
 
-    try {
-        // Attende la risposta HTTP
-        const response = await fetch(apiUrlProjects);
+        try {
+            // Attende la risposta HTTP
+            const response = await fetch(apiUrlProjects);
 
-        if (!response.ok) {
-            throw new Error(`Errore HTTP: ${response.status}`);
-        }
-
-        // Attende e converte la risposta in oggetto JavaScript (JSON)
-        const htmlText = await response.text();
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(htmlText, 'text/html');
-        const projectTable = doc.getElementById('projectTab');
-
-        const righeProjectTable = projectTable.querySelectorAll('tbody tr');
-
-        for (let i = 0; i < righeProjectTable.length; i++) {
-            let aProject = righeProjectTable[i].querySelectorAll('td span');
-
-            if(aProject[0] && aProject[0].textContent && aProject[0].style) {
-                aProjects.push({
-                    proj: aProject[0].textContent,
-                    style: aProject[0].style
-                });
+            if (!response.ok) {
+                throw new Error(`Errore HTTP: ${response.status}`);
             }
-        }
 
-    } catch (error) {
-        console.error("Errore nel caricamento dei dati API:", error);
-        return;
+            // Attende e converte la risposta in oggetto JavaScript (JSON)
+            const htmlText = await response.text();
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(htmlText, 'text/html');
+            const projectTable = doc.getElementById('projectTab');
+
+            const righeProjectTable = projectTable.querySelectorAll('tbody tr');
+
+            for (let i = 0; i < righeProjectTable.length; i++) {
+                let aProject = righeProjectTable[i].querySelectorAll('td span');
+
+                if(aProject[0] && aProject[0].textContent && aProject[0].style) {
+                    aProjects.push({
+                        proj: aProject[0].textContent,
+                        backgroundColor: aProject[0].style.backgroundColor,
+                        color: aProject[0].style.color
+                    });
+                }
+            }
+
+        } catch (error) {
+            console.error("Errore nel caricamento dei dati API:", error);
+            return;
+        }
     }
 
     const tabellaDOM = document.getElementById('tabContenuPlanning');
@@ -69,8 +72,8 @@ async function change_colors() {
 
             let oProj = aProjects.find(x => x.proj === celle[i].textContent);
             if (oProj) {
-                celle[i].style.backgroundColor = oProj.style.backgroundColor;
-                celle[i].style.color = oProj.style.color;
+                celle[i].style.backgroundColor = oProj.backgroundColor;
+                celle[i].style.color = oProj.color;
             }
         }
     }

@@ -48,11 +48,11 @@ async function change_colors() {
             for (let i = 0; i < righeProjectTable.length; i++) {
                 let aProject = righeProjectTable[i].querySelectorAll('td span');
 
-                if(aProject[0] && aProject[0].textContent && aProject[0].style) {
+                if(aProject[1] && aProject[1].textContent && aProject[1].style) {
                     aProjects.push({
-                        proj: aProject[0].textContent,
-                        backgroundColor: aProject[0].style.backgroundColor,
-                        color: aProject[0].style.color
+                        proj: aProject[1].textContent,
+                        backgroundColor: aProject[1].style.backgroundColor,
+                        color: aProject[1].style.color
                     });
                 }
             }

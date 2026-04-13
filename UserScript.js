@@ -4,7 +4,7 @@
 // @version      3.0
 // @description  try to take over the world!
 // @author       You
-// @match        https://planning.photec.it/conseplan/planning.php
+// @match        https://planning.photec.it/conseplan/planning*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=photec.it
 // @grant        none
 // ==/UserScript==
